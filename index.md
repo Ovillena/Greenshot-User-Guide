@@ -84,13 +84,43 @@ email, or any other method with the owners of this repository before making a ch
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+     <a href="{{ contribut---
+layout: default
+title: Introduction 
+nav_order: 1
+permalink: /
+---
 
-### Code of Conduct
+# Introduction
+This documentation serves as a guide to using Greenshot’s core features. Greenshot is a screenshot suite that allows users to have control over screen capture, editing, and uploading. 
 
-Just the Docs is committed to fostering a welcoming community.
+## Software Requirements
+Windows / MacOS Operating System
+GreenShot Application
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+<span style="background-color:#F7D12E;color:black;">_note:_ Currently, This user guide only provides instructions for the Windows version of GreenShot. The Mac version of Greenshot may not follow some instructions outlined in this user guide.</span> 
+
+
+Greenshot is available free for Windows users and available on MacOS from the app store. The Greenshot application is available for download at https://getgreenshot.org/downloads/
+ 
+## Intended Use
+Greenshot is a desktop capturing application that allows users to have enhanced control over the process of taking screenshots.Greenshot has all the functionalities of the default Windows/MacOS screenshot tool along with many additional features like the obfuscation tool or instant uploads to imgur. Greenshot offers users full control in their capturing, editing, saving and uploading screenshots.
+
+## Procedures Included
+In this guide we will be covering the five features that will set you on your way to becoming a Greenshot power user:
+- Capturing a screen region
+- Capturing a window
+- Capturing an entire screen
+- Obfuscating sensitive information with the editor
+- Exporting your screenshots to different file types
+- Uploading to imgur/imgur integration
+
+## Typographical Conventions
+This user guide uses the typological conventions listed in the table below.
+
+| Convention | Typeface | Examples |
+|---|---|---|
+| Key Terms and Emphasis | _Italics_  | _Capture_, _History_           |
+| Keystrokes and Clicks  | **[Bold]** | **[PrtSc]**, **[Right-Click]** |
+
+<span style="background-color:#F7D12E;color:black;">_note:_ Notes give additional information about a step. Notes will be preceded with the word “_note_:” encased in a yellow box.</span>
