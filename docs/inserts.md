@@ -4,7 +4,18 @@ title: Inserting Screenshots
 nav_order: 5
 ---
 
-# Inserting Screenshots into Microsoft Applications
+# Inserting Screenshots
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Inserting Screenshots into Microsoft Applications
 
 Greenshot lets you insert screenshot images into various Microsoft Applications. These applications include
 
@@ -21,37 +32,37 @@ Application icons can be found at the top of the _image editor_. Clicking any of
 ![Microsoft App Icons](../assets/images/msIcons.png)
 <span style="background-color:#F7D12E;color:black;">_note:_ The icons marked in the red circle are used to insert images into various Microsoft Applications</span>
 
-## Inserting Screenshot into Microsoft Outlook
+### Inserting Screenshot into Microsoft Outlook
 
 Clicking the Microsoft Outlook icon ![Outlook Icon](../assets/images/outlookicon.png) will open a new Outlook Message window and will insert the image in the email body. The image will be inserted in-line with the text.
 
 ![Screenshot inside outlook](../assets/images/outlookshot.png)
 
-## Inserting Screenshot into Microsoft Powerpoint
+### Inserting Screenshot into Microsoft Powerpoint
 
 Clicking the Microsoft Powerpoint icon ![Powerpoint Icon](../assets/images/ppicon.png) will open a new Powerpoint Presentation window and will insert the image in the middle of the first slide. The image will be inserted as a floating image in the slide.
 
 ![Screenshot inside powerpoint](../assets/images/ppshot.png)
 
-## Inserting Screenshot into Microsoft Word
+### Inserting Screenshot into Microsoft Word
 
 Clicking the Microsoft Word icon ![Word Icon](../assets/images/wordicon.png) will open a new Word document window and will insert the image onto the page. The image will be inserted in-line with the text.
 
 ![Screenshot inside word](../assets/images/wordshot.png)
 
-## Inserting Screenshot into Microsoft Excel
+### Inserting Screenshot into Microsoft Excel
 
 Clicking the Microsoft Excel icon ![Excel Icon](../assets/images/excelicon.png) will open a new Word document window and will insert the image onto the spreadsheet. The image will be inserted as a floating image over the spreadsheet.
 
 ![Screenshot inside excel](../assets/images/excelshot.png)
 
-## Inserting Screenshot into MS Paint
+### Inserting Screenshot into MS Paint
 
 Clicking the MS Paint icon ![Paint Icon](../assets/images/painticon.png) will open the image in a new MS Paint window. The image will now be editable through the MS Paint application.
 
 ![Screenshot inside MS Paint](../assets/images/paintshot.png)
 
-# Inserting into Already Opened MS Applications
+## Inserting into Already Opened MS Applications
 
 You can insert your image into an existing instance of the Microsoft application.
 
