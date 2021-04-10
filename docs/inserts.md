@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inserting Screenshots
-nav_order: 5
+nav_order: 4
 ---
 
 # Inserting Screenshots
