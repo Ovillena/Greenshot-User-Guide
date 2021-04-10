@@ -7,6 +7,16 @@ permalink: /
 ---
 
 # Introduction
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 This documentation serves as a guide to using Greenshot’s core features. Greenshot is a screenshot suite that allows users to have control over screen capture, editing, and uploading. 
 
 ## Software Requirements
