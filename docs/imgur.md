@@ -1,7 +1,18 @@
 ---
 layout: default
-title: Upload to Imgur
+title: Imgur Integration
 nav_order: 4
+---
+
+# Imgur Integration
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ---
 
 ## Upload to Imgur
