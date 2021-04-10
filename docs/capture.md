@@ -4,6 +4,17 @@ title: Screen Capture
 nav_order: 2
 ---
 
+# Capturing Screenshots
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Capturing a Screen Region
 There are two ways of capturing a screen region with Greenshot: using the keyboard shortcut and using the Greenshot menu. 
 
