@@ -30,6 +30,7 @@ Inserting images into applications can be done through Greenshot's _image editor
 Application icons can be found at the top of the _image editor_. Clicking any of theses icons will immediately insert your image into it's respective application.
 
 ![Microsoft App Icons](../assets/images/msIcons.png)
+
 <span style="background-color:#F7D12E;color:black;">_note:_ The icons marked in the red circle are used to insert images into various Microsoft Applications</span>
 
 ### Inserting Screenshot into Microsoft Outlook
