@@ -1,5 +1,3 @@
-Readme
-
 ## Introduction to Greenshot User Guide
 This documentation serves as an introductory guide to using the Greenshot screenshotting software. The instructions will walk you through the basics, from taking screenshots, to editing and uploading them.
 
