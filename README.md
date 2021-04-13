@@ -13,7 +13,7 @@
 
 Navigate to the following link and download the greenshot application.
 
-```html
+```md
 [https://getgreenshot.org/](https://getgreenshot.org/)
 ```
 
