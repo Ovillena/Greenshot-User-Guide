@@ -18,6 +18,8 @@ nav_order: 3
 ## Obfuscate Sensitive Information
 Greenshot offers the ability to obfuscate or blur specific areas of a screenshot to hide sensitive information. After taking a screenshot, _select_ the “Open in Image Editor” tab.
 
+![GreenshotImageEditorMenu](../assets/images/GreenShotImageEditorMenu.png GreenshotImageEditorMenu"
+
 <img title=”Greenshot Image Editor Menu” alt=”Greenshot Image Editor Menu” src=”../assets/images/GreenShotImageEditorMenu.png”> 
 _Figure 2: Greenshot Preferences Menu_
 
