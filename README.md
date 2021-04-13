@@ -15,8 +15,7 @@ Navigate to the following link and download the greenshot application.
 
 ```html
 <a href="https://getgreenshot.org/">https://getgreenshot.org/</a>
-
-And add this line to your Jekyll site's `_config.yml`:
+```
 
 ```yaml
 theme: just-the-docs
