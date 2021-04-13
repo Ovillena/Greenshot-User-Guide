@@ -13,9 +13,9 @@
 
 Navigate to the following link and download the greenshot application.
 
-```md
+
 [https://getgreenshot.org/](https://getgreenshot.org/)
-```
+
 
 ```yaml
 theme: just-the-docs
