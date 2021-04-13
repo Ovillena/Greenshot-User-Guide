@@ -4,7 +4,7 @@
 <br><br>
 <p align="center">
     <h1 align="center">GreenShot User Guide</h1>
-    <p align="center">This guide serves as a new user manual for GreenShot.<br>Easily hosted on GitHub Pages with few dependencies.</p>
+    <p align="center">This guide serves as a new user manual for GreenShot.</p>
     <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
     <br><br><br>
 </p>
