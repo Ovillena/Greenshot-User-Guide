@@ -21,12 +21,12 @@ There are two ways of capturing a screen region with Greenshot: using the keyboa
 #### Using the Keyboard Shortcut
 With Greenshot running, press the **[PrtSc]** key on your keyboard to bring up the region capture tool.
 
-
+![Geenshot Region](../assets/images/Greenshot_Region.png)
 
 #### Using the Greenshot Menu
 Alternatively, screen region captures can be taken from the Greenshot menu. The Greenshot menu can be accessed by **[right clicking]** on the Greenshot icon in the system tray (see figure ?). From the menu select *Capture Region*. 
 
-
+![Geenshot Menu Tray](../assets/images/Greenshot_Menu_Tray.png)
 
 Whichever way you choose to access the region capture tool, after you do so, your cursor will turn into a crosshair with a magnifier preview (see figure ?). Click and drag to trace a box in which the screenshot will capture everything inside. 
 
@@ -44,13 +44,9 @@ With Greenshot running, and the window you want to capture in focus, press **[Al
 Alternatively, window captures can be taken from the Greenshot menu. The Greenshot menu can be accessed by **[right clicking]** on the Greenshot icon in the system tray (see figure ?). From the menu select *Capture Window*. 
 
 
-If you opt to use the keyboard shortcut, Greenshot will automatically capture the window currently in focus. However, if you access the window capture tool from the menu, your cursor will turn into a crosshair, allowing you to select the window you want to capture (see figure ?).
+If you opt to use the keyboard shortcut, Greenshot will automatically capture the window currently in focus. However, if you access the window capture tool from the menu, your cursor will turn into a crosshair, allowing you to select the window you want to capture (see figure below).
 
-*link to after the screenshot*
-
-
-*insert figure whatever* 
-
+![Geenshot Window Select](../assets/images/Greenshot_window-select.png)
 
 ## Capture Entire Screen
 There are two ways of capturing your screen with Greenshot: using the keyboard shortcut and using the Greenshot menu. 
@@ -69,5 +65,6 @@ Whichever option you use to access the screen capture tool, Greenshot will autom
 ## After Capturing Your Screen
  After you have taken the screenshot, another menu will appear. From this menu you can choose to save your screenshot to a specified location with *Save as*, save to your default output file location with *Save directly*, open the file in Greenshot’s editor with *Open in image editor*, or send directly to Imgur with *Upload to Imgur*. 
 
+![Geenshot Post Shot Menu](../assets/images/Greenshot_Post-shot_menu.png)
 
 *insert figure whatever* 
