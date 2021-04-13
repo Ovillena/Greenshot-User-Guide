@@ -21,13 +21,11 @@ Greenshot offers the convenience of being able to instantly upload screenshots t
 
 ![Greenshot Capture Menu](../assets/images/GreenShotCaptureMenu.png)
 
-_Figure 2: Greenshot Capture Menu_
 
 After selecting the Imgur button, the file will be uploaded directly to Imgur anonymously. The upload file type used by imgur can be changed by opening greenshot, navigating to the GreenShot Imgur Settings. On windows, open the Windows Task view button and right click on the GreenShot icon, hover over “Imgur” and select configure (See Figure ___ below “GreenshotConfigurationMenu.png”).
 
 ![GreenShot Imgur Configuration](../assets/images/GreenshotConfigurationMenu.png)
 
-_Figure 3: Greenshot Configuration Menu_
 
 A new window will open that allows you to specify the default file type that Greenshot will use to publish Imgur screenshots.
 
@@ -36,6 +34,5 @@ In uploading a screenshot to Imgur, Greenshot conveniently keeps a log of all up
 
 ![GreenShot History](../assets/images/GreenShotHistory.png)
 
-_Figure 3: Greenshot History Menu_
 
 From this menu users can access all old screenshots and even _delete_ screenshots from Imgur from within the Greenshot menu. Items deleted from this menu will be removed from the Imgur website.
