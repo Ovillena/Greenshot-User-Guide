@@ -16,7 +16,7 @@ nav_order: 3
 ---
 
 ## Annotating in the Editor
-The Greenshot editor can be used to annotate your photo. Add emphasis, text, or arrows to help contextualize your screenshots. The editor can be accessed after taking a screenshot or by selecting *Open image from file* from the Greenshot menu. Inside the editor, annotation tools are organized along the left side of the interface (see figure ?).
+The Greenshot editor can be used to annotate your photo. Add emphasis, text, or arrows to help contextualize your screenshots. The editor can be accessed after taking a screenshot or by selecting *Open image from file* from the Greenshot menu. Inside the editor, annotation tools are organized along the left side of the interface.
 
 ![Greenshot's annotation tools](../assets/images/Greenshot_AnnotateTools.png)
 
