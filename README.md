@@ -1,68 +1,47 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/Greenshot-User-Guide/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/Greenshot-User-Guide/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">GreenShot User Guide</h1>
-    <p align="center">This guide serves as a new user manual for GreenShot.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/Greenshot-User-Guide/"></a></strong></p>
-    <br><br><br>
-</p>
+Readme
 
-## Installation
+## Introduction to Greenshot User Guide
+This documentation serves as an introductory guide to using the Greenshot screenshotting software. The instructions will walk you through the basics, from taking screenshots, to editing and uploading them.
 
-Navigate to the following link and download the greenshot application.
+The topics covered in this guide: 
+* capturing screenshots
+* annotating your screenshots 
+* obfuscating sensitive information
+* using your screenshots in microsoft office and paint
+* uploading you screenshots to Imgur
 
 
-[https://getgreenshot.org/](https://getgreenshot.org/)
+## How We Collaborated
+
+Our team did an initial brainstorming process to think of useful tools and applications that we had recently used that we believed could benefit from a new user documentation guide. We utilized Discord as our primary means of communication and organization. We chose to utilize Google Docs and the Bjorn Markdown Add-On extension to collaboratively work on our pages together. 
+
+We chose to split the pages up into separate parts for each member to work on, but did the majority of our work in group calls. We utilized GitHub to finalize and test our pages on the live server after reviewing in Bjorn Studio. 
+
+## How We Created Our Guide
+
+We began our process of writing this use guide by determining the core features that we wanted to address after determining the GreenShot application as our topic. We broke down the topics into separate pages and each completed our own screenshots and Markdown documentation. After finalizing our work in Google Docs we imported the code into GitHub to test the code live on the GitHub pages site.
+
+We implemented the upside-down pyramid writing principal to ensure that our documentation was easy to read, and that each sentence starts off as informative as possible.
+
+Markdown allowed us to create easy to read, well organized user documentation for the application and integrated Jekyl themes to use as a basis for our design. We modified our Jekyl theme and formatted the layout for our page.
+
+The theme that was chosen is Just The Docs, a popular theme known for its minimalistic look with a bright background and easy to read text. We decided it was best to stick to the most simplistic design available given that our documentation is tailored towards new users.
 
 
-```yaml
-theme: just-the-docs
-```
+## Challenges
 
-And then execute:
+Like any assignment, we encountered a few challenges throughout our work. There was a point where our Github Jekyll document broke, and so the build for the website was not updating to show committed changes. We were unable to determine the root of the issue and repair the build. So, we ported all our changes to a new repo, being careful not to break anything. It became evident that using a theme that someone else wrote could lead to mistakes in the code if one is not careful with what they change. This situation is in parallel with being careful not to break someone else’s software code. 
 
-    $ bundle
+## Conclusion
 
-Or install it yourself as:
+Given the circumstances with the COVID-19 pandemic, it has been a challenge to work in groups without the ability to meet in person. Our team made use of voice and video communications to help facilitate an environment that mimics a situation that we may encounter in the field of development. This was also the first time any of us had used Markdown so everything was new to all team members.
 
-    $ gem install just-the-docs
+Writing documentation that is accessible to beginners is a challenge. Working in a group, however, made this challenge much more manageable. Some of us had never used Greenshot before, giving us insight into how beginners approach the software. One member in our group was proficient with Greenshot and was able to provide insight on more advanced features. Together, we were able to write this guide intended for beginners as well as experienced Greenshot users. 
 
-Alternatively, you can run it inside Docker while developing your site
 
-    $ docker-compose up
+Thank you for taking the time to read through our GreenShot user guide, we hope that you have gained valuable knowledge from our instructions.
 
-## Usage
+This document was built on:
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
+[Just The Docs](https://github.com/pmarsceill/just-the-docs)
 
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-### Submitting code changes:
-
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
-
-### Design and development principles of this theme:
-
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
