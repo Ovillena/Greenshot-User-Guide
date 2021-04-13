@@ -14,7 +14,7 @@
 Navigate to the following link and download the greenshot application.
 
 ```html
-<a href="https://getgreenshot.org/">https://getgreenshot.org/</a>
+"https://getgreenshot.org/
 ```
 
 ```yaml
