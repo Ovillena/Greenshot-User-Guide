@@ -11,10 +11,10 @@
 
 ## Installation
 
-Add this line to your Jekyll site's Gemfile:
+Navigate to the following link and download the greenshot application.
 
-```ruby
-gem "just-the-docs"
+```html
+https://getgreenshot.org/
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
