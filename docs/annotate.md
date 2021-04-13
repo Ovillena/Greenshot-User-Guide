@@ -4,7 +4,7 @@ title: Annotation Tools
 nav_order: 3
 ---
 
-# Imgur Integration
+# Annotation Tools
 {: .no_toc }
 
 ## Table of contents
