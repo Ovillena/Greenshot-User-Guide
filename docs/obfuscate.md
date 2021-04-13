@@ -20,13 +20,9 @@ Greenshot offers the ability to obfuscate or blur specific areas of a screenshot
 
 ![Greenshot Capture Menu](../assets/images/GreenShotImageEditorMenu.PNG)
 
-_Figure 1: Greenshot Capture Menu_
-
 After _selecting_ the “Open in Image Editor” button, the Greenshot Editor will open in a new window shown in figure ____ below. _Select_ the blur button shown in Figure ___ below and **[click]** and drag a box over the area you would like to blur. This will blur our all the content within the box selected by the user. 
 
 ![Greenshot Capture Menu](../assets/images/GreenShotBlurTool.png)
-
-_Figure 2: Greenshot Preferences Menu_
 
 ## Annotating in the Editor
 The Greenshot editor can be used to annotate your photo. Add emphasis, text, or arrows to help contextualize your screenshots. The editor can be accessed after taking a screenshot or by selecting *Open image from file* from the Greenshot menu. Inside the editor, annotation tools are organized along the left side of the interface (see figure ?).
