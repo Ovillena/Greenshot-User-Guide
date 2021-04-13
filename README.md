@@ -9,8 +9,6 @@
     <br><br><br>
 </p>
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
-
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
