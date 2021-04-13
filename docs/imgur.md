@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imgur Integration
-nav_order: 5
+nav_order: 6
 ---
 
 # Imgur Integration
